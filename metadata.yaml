@@ -1,0 +1,40 @@
+_repo: The-retreat-of-the-ten-thousand_71894
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Dakyns, Henry Graham
+    aliases:
+    - Dakyns, H. G. (Henry Graham)
+    - Dakyns, Henry G. (Henry Graham)
+    birthdate: 1838
+    deathdate: 1911
+    gutenberg_agent_id: '544'
+    url: http://www.gutenberg.org/2009/agents/544
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Graham_Dakyns
+  translator:
+    agent_name: Younghusband, Frances
+    gutenberg_agent_id: '56449'
+    url: http://www.gutenberg.org/2009/agents/56449
+creator:
+  author:
+    agent_name: Witt, Carl
+    gutenberg_agent_id: '56448'
+    url: http://www.gutenberg.org/2009/agents/56448
+description: ''
+gutenberg_issued: '2023-10-17'
+identifiers:
+  gutenberg: '71894'
+language: en
+pgterms:marc904: https://archive.org/details/retreatoftenthou00witt
+pgterms:marc905: 20201223120705witt
+pgterms:marc906: '1896'
+production_note: Turgut Dincer and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $bLongmans, Green, and Co., $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The retreat of the ten thousand
+url: http://www.gutenberg.org/ebooks/71894
