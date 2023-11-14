@@ -15,12 +15,17 @@ contributor:
     agent_name: Younghusband, Frances
     gutenberg_agent_id: '56449'
     url: http://www.gutenberg.org/2009/agents/56449
+covers:
+- cover_type: archival
+  image_path: 71894-h/images/cover.jpg
 creator:
   author:
     agent_name: Witt, Carl
     gutenberg_agent_id: '56448'
     url: http://www.gutenberg.org/2009/agents/56448
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71894#The-retreat-of-the-ten-thousand
 gutenberg_issued: '2023-10-17'
 identifiers:
   gutenberg: '71894'
